@@ -10,47 +10,8 @@ A NodeJS script to Convert ChromeGo Proxies
 
 ## 使用说明
 
-### 订阅链接：
-
 > 本项目已配置 Github Actions 自动运行，最近提取于：`UTC 2024-05-03 13:52:08`
 
-- Clash Meta (不带 WARP):
-
-  [https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/clash_meta.yaml](https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/clash_meta.yaml)
-
-- Clash Meta (带 WARP):
-
-  [https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/clash_meta_warp.yaml](https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/clash_meta_warp.yaml)
-
-- Base64:
-
-  [https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/base64.txt](https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/base64.txt)
-
-- Proxy urls:
-
-  [https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/proxy-urls.txt](https://raw.githubusercontent.com/ivwv/chromego_convert/main/outputs/proxy-urls.txt)
-
-<details>
-
-<summary>(备用)</summary>
-
-- Clash Meta (不带 WARP):
-
-  [https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/clash_meta.yaml](https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/clash_meta.yaml)
-
-- Clash Meta (带 WARP):
-
-  [https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/clash_meta_warp.yaml](https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/clash_meta_warp.yaml)
-
-- Base64:
-
-  [https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/base64.txt](https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/base64.txt)
-
-- Proxy urls:
-
-  [https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/proxy-urls.txt](https://gcore.jsdelivr.net/gh/ivwv/chromego_convert@main/outputs/proxy-urls.txt)
-
-</details>
 
 ### 本地运行：
 
@@ -67,7 +28,7 @@ A NodeJS script to Convert ChromeGo Proxies
 克隆本项目到本地：
 
 ```bash
-git clone https://github.com/ivwv/chromego_convert.git
+git clone https://github.com/freetcp/chromego_convert.git
 ```
 
 #### 3. 运行脚本
@@ -121,9 +82,3 @@ node app.js
 本项目遵循 MIT 许可协议。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
 ---
-
-**欢迎提出问题或为本项目的开发做出贡献！**
-
-## 统计
-
-![Star History Chart](https://api.star-history.com/svg?repos=ivwv/chromego_convert&type=Date)
