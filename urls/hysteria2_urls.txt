@@ -2,3 +2,7 @@ https://raw.githubusercontent.com/Alvin9999/pac2/master/hysteria2/config.json
 https://raw.githubusercontent.com/Alvin9999/pac2/master/hysteria2/1/config.json
 https://raw.githubusercontent.com/Alvin9999/pac2/master/hysteria2/2/config.json
 https://raw.githubusercontent.com/Alvin9999/pac2/master/hysteria2/13/config.json
+https://raw.githubusercontent.com/freetcp/cf_sub/main/Hysteria2/1.json
+https://raw.githubusercontent.com/freetcp/cf_sub/main/Hysteria2/2.json
+https://raw.githubusercontent.com/freetcp/cf_sub/main/Hysteria2/3.json
+https://raw.githubusercontent.com/freetcp/cf_sub/main/Hysteria2/4.json
