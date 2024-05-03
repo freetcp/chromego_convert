@@ -1,4 +1,4 @@
-name: ivwv Auto Convert
+name: Auto Convert
 
 on:
   push:
