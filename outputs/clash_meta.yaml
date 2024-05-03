@@ -276,6 +276,27 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 4-0
+    type: hysteria2
+    server: 104.192.224.139
+    port: 40391
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 5-0
+    type: hysteria2
+    server: 104.192.224.142
+    port: 40391
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 6-0
+    type: hysteria2
+    server: 64.110.25.11
+    port: 37021
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -301,6 +322,9 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 4-0
+      - US 🇺🇸-Hysteria2 | 5-0
+      - US 🇺🇸-Hysteria2 | 6-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -326,6 +350,9 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 3-0
       - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 4-0
+      - US 🇺🇸-Hysteria2 | 5-0
+      - US 🇺🇸-Hysteria2 | 6-0
   - name: 📺 巴哈姆特
     type: select
     proxies:
