@@ -17,7 +17,7 @@ proxies:
     port: 2408
     ip: 172.16.0.2
     ipv6: 2606:4700:110:87ad:b400:91:eadb:887f
-    private-key: QNbUNHY5lMMxhoaqrDjLtd+dodakZnrnBVsttAecpkE=
+    private-key: yFxPg/ChiHn/ZsQLeSvyV5y+DWB41aOAgcvBhN0WWlA=
     public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
     udp: true
     ip-version: ipv6-prefer
