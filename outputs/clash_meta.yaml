@@ -251,6 +251,173 @@ proxies:
         enabled: true
         up: 11
         down: 55
+  - name: Unknown 🇺🇳-hysteria | 10-1
+    type: hysteria
+    server: clash1.dtku47.xyz
+    port: 11223
+    auth-str: O5tQQiW2xKf5
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 11-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 12-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 13-1
+    type: hysteria
+    server: hy1.dtku47.xyz
+    port: 22334
+    auth-str: lASdKzWK0VxL
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: US 🇺🇸-ss | 14-1
+    type: ss
+    server: 108.181.22.130
+    port: 11256
+    cipher: 2022-blake3-chacha20-poly1305
+    password: +/b6Q+CbYg8b823kivADeViRHa7kdBprvhpyTk15QpY=
+  - name: Unknown 🇺🇳-hysteria | 15-1
+    type: hysteria
+    server: hy1.dtku47.xyz
+    port: 11257
+    auth-str: oO5q7L6QPSuJ
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-tuic | 16-1
+    server: tuic1.dtku47.xyz
+    port: 22336
+    type: tuic
+    uuid: 39edbd65-1a14-4d58-bb5a-3b69c52d0869
+    password: hSOogY0SXn4T
+    alpn:
+      - h3
+    request-timeout: 8000
+    udp-relay-mode: native
+    congestion-controller: bbr
+  - name: Unknown 🇺🇳-hysteria | 17-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: 🏳 Unknown-vmess | 18-1
+    type: vmess
+    server: 104.26.9.22
+    port: 8080
+    cipher: auto
+    uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+    alterId: 0
+    tls: false
+    skip-cert-verify: true
+    servername: dual-nothing-prep-exit.trycloudflare.com
+    network: ws
+    ws-opts:
+      path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+      headers:
+        host: dual-nothing-prep-exit.trycloudflare.com
+  - name: US 🇺🇸-vmess | 18-2
+    type: vmess
+    server: 172.64.97.235
+    port: 8080
+    cipher: auto
+    uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+    alterId: 0
+    tls: false
+    skip-cert-verify: true
+    servername: dual-nothing-prep-exit.trycloudflare.com
+    network: ws
+    ws-opts:
+      path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+      headers:
+        host: dual-nothing-prep-exit.trycloudflare.com
+  - name: 🏳 Unknown-vmess | 18-3
+    type: vmess
+    server: 104.19.38.28
+    port: 8080
+    cipher: auto
+    uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+    alterId: 0
+    tls: false
+    skip-cert-verify: true
+    servername: dual-nothing-prep-exit.trycloudflare.com
+    network: ws
+    ws-opts:
+      path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+      headers:
+        host: dual-nothing-prep-exit.trycloudflare.com
+  - name: 🏳 Unknown-vmess | 18-4
+    type: vmess
+    server: 104.19.38.48
+    port: 8080
+    cipher: auto
+    uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+    alterId: 0
+    tls: false
+    skip-cert-verify: true
+    servername: dual-nothing-prep-exit.trycloudflare.com
+    network: ws
+    ws-opts:
+      path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+      headers:
+        host: dual-nothing-prep-exit.trycloudflare.com
+  - name: Unknown 🇺🇳-hysteria | 19-1
+    type: hysteria
+    server: clash1.dtku47.xyz
+    port: 11223
+    auth-str: O5tQQiW2xKf5
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 20-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 21-1
+    type: hysteria
+    server: hy1.dtku47.xyz
+    port: 22334
+    auth-str: lASdKzWK0VxL
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
   - name: US 🇺🇸-Hysteria | 0-0
     type: hysteria
     server: 108.181.5.133
@@ -409,6 +576,21 @@ proxy-groups:
       - US 🇺🇸-hysteria2 | 7-1
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
+      - Unknown 🇺🇳-hysteria | 10-1
+      - Unknown 🇺🇳-hysteria | 11-1
+      - Unknown 🇺🇳-hysteria | 12-1
+      - Unknown 🇺🇳-hysteria | 13-1
+      - US 🇺🇸-ss | 14-1
+      - Unknown 🇺🇳-hysteria | 15-1
+      - Unknown 🇺🇳-tuic | 16-1
+      - Unknown 🇺🇳-hysteria | 17-1
+      - 🏳 Unknown-vmess | 18-1
+      - US 🇺🇸-vmess | 18-2
+      - 🏳 Unknown-vmess | 18-3
+      - 🏳 Unknown-vmess | 18-4
+      - Unknown 🇺🇳-hysteria | 19-1
+      - Unknown 🇺🇳-hysteria | 20-1
+      - Unknown 🇺🇳-hysteria | 21-1
       - US 🇺🇸-Hysteria | 0-0
       - FR 🇫🇷-Hysteria | 1-0
       - FR 🇫🇷-Hysteria | 2-0
@@ -443,6 +625,21 @@ proxy-groups:
       - US 🇺🇸-hysteria2 | 7-1
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
+      - Unknown 🇺🇳-hysteria | 10-1
+      - Unknown 🇺🇳-hysteria | 11-1
+      - Unknown 🇺🇳-hysteria | 12-1
+      - Unknown 🇺🇳-hysteria | 13-1
+      - US 🇺🇸-ss | 14-1
+      - Unknown 🇺🇳-hysteria | 15-1
+      - Unknown 🇺🇳-tuic | 16-1
+      - Unknown 🇺🇳-hysteria | 17-1
+      - 🏳 Unknown-vmess | 18-1
+      - US 🇺🇸-vmess | 18-2
+      - 🏳 Unknown-vmess | 18-3
+      - 🏳 Unknown-vmess | 18-4
+      - Unknown 🇺🇳-hysteria | 19-1
+      - Unknown 🇺🇳-hysteria | 20-1
+      - Unknown 🇺🇳-hysteria | 21-1
       - US 🇺🇸-Hysteria | 0-0
       - FR 🇫🇷-Hysteria | 1-0
       - FR 🇫🇷-Hysteria | 2-0
