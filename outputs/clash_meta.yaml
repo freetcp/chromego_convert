@@ -251,6 +251,46 @@ proxies:
         enabled: true
         up: 11
         down: 55
+  - name: Unknown 🇺🇳-hysteria | 10-1
+    type: hysteria
+    server: clash1.dtku47.xyz
+    port: 11223
+    auth-str: O5tQQiW2xKf5
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 11-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 12-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
+  - name: Unknown 🇺🇳-hysteria | 13-1
+    type: hysteria
+    server: hy1.dtku47.xyz
+    port: 22334
+    auth-str: lASdKzWK0VxL
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
   - name: US 🇺🇸-ss | 14-1
     type: ss
     server: 108.181.22.130
@@ -278,6 +318,16 @@ proxies:
     request-timeout: 8000
     udp-relay-mode: native
     congestion-controller: bbr
+  - name: Unknown 🇺🇳-hysteria | 17-1
+    type: hysteria
+    server: hy2.dtku47.xyz
+    port: 15566
+    auth-str: jQrGpwSqp34P
+    alpn:
+      - h3
+    protocol: udp
+    up: 50 Mbps
+    down: 100 Mbps
   - name: Unknown 🇺🇳-hysteria | 18-1
     type: hysteria
     server: clash1.dtku47.xyz
@@ -399,9 +449,24 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
-  - name: Unknown 🇺🇳-vless | 3-0
+  - name: Unknown 🇺🇳-vless | 2-0
     type: vless
     server: yh7.dtku41.xyz
+    port: 443
+    uuid: ebfdccb6-7416-4b6e-860d-98587344d500
+    tls: true
+    servername: lg1.freessr2.xyz
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /xyakws
+      headers:
+        Host: lg1.freessr2.xyz
+    grpc-opts:
+      serviceName: /
+  - name: Unknown 🇺🇳-vless | 4-0
+    type: vless
+    server: yh9.dtku41.xyz
     port: 443
     uuid: ebfdccb6-7416-4b6e-860d-98587344d500
     tls: true
@@ -451,9 +516,14 @@ proxy-groups:
       - US 🇺🇸-hysteria2 | 7-1
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
+      - Unknown 🇺🇳-hysteria | 10-1
+      - Unknown 🇺🇳-hysteria | 11-1
+      - Unknown 🇺🇳-hysteria | 12-1
+      - Unknown 🇺🇳-hysteria | 13-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
+      - Unknown 🇺🇳-hysteria | 17-1
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
@@ -466,7 +536,8 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
-      - Unknown 🇺🇳-vless | 3-0
+      - Unknown 🇺🇳-vless | 2-0
+      - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
   - name: ♻️ 自动选择
     type: url-test
@@ -490,9 +561,14 @@ proxy-groups:
       - US 🇺🇸-hysteria2 | 7-1
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
+      - Unknown 🇺🇳-hysteria | 10-1
+      - Unknown 🇺🇳-hysteria | 11-1
+      - Unknown 🇺🇳-hysteria | 12-1
+      - Unknown 🇺🇳-hysteria | 13-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
+      - Unknown 🇺🇳-hysteria | 17-1
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
@@ -505,7 +581,8 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
-      - Unknown 🇺🇳-vless | 3-0
+      - Unknown 🇺🇳-vless | 2-0
+      - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
   - name: 📺 巴哈姆特
     type: select
