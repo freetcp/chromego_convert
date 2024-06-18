@@ -607,13 +607,6 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
-  - name: US 🇺🇸-Hysteria2 | 7-0
-    type: hysteria2
-    server: 109.104.152.89
-    port: 22441
-    password: dongtaiwang.com
-    sni: www.bing.com
-    skip-cert-verify: true
   - name: Unknown 🇺🇳-vless | 2-0
     type: vless
     server: yh7.dtku41.xyz
@@ -631,7 +624,7 @@ proxies:
       serviceName: /
   - name: Unknown 🇺🇳-vless | 4-0
     type: vless
-    server: yh9.dtku41.xyz
+    server: yh1.dtku41.xyz
     port: 443
     uuid: ebfdccb6-7416-4b6e-860d-98587344d500
     tls: true
@@ -647,6 +640,21 @@ proxies:
   - name: Unknown 🇺🇳-vless | 5-0
     type: vless
     server: yh6.dtku41.xyz
+    port: 443
+    uuid: ebfdccb6-7416-4b6e-860d-98587344d500
+    tls: true
+    servername: lg1.freessr2.xyz
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: /xyakws
+      headers:
+        Host: lg1.freessr2.xyz
+    grpc-opts:
+      serviceName: /
+  - name: Unknown 🇺🇳-vless | 6-0
+    type: vless
+    server: yh4.dtku41.xyz
     port: 443
     uuid: ebfdccb6-7416-4b6e-860d-98587344d500
     tls: true
@@ -709,10 +717,10 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
-      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vless | 2-0
       - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
+      - Unknown 🇺🇳-vless | 6-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -762,10 +770,10 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
-      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vless | 2-0
       - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
+      - Unknown 🇺🇳-vless | 6-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -815,10 +823,10 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
-      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vless | 2-0
       - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
+      - Unknown 🇺🇳-vless | 6-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
