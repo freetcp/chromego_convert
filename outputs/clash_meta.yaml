@@ -11,9 +11,9 @@ profile:
   tracing: true
 global-client-fingerprint: chrome
 proxies:
-  - name: Unknown 🇺🇳-vmess | 0-1
+  - name: 🏳 Unknown-vmess | 0-1
     type: vmess
-    server: fbi.gov
+    server: 104.16.148.244
     port: 8080
     uuid: ffaba3ee-4070-4590-9959-d863f9a4c6de
     alterId: 0
@@ -161,9 +161,9 @@ proxies:
       path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
       headers:
         Host: ip002.freegradely.xyz
-  - name: Unknown 🇺🇳-vmess | 2-3
+  - name: 🏳 Unknown-vmess | 2-3
     type: vmess
-    server: fbi.gov
+    server: 104.16.148.244
     port: 2086
     uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
     alterId: 0
@@ -251,9 +251,9 @@ proxies:
       path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
       headers:
         host: luther-soon-uploaded-anxiety.trycloudflare.com
-  - name: Unknown 🇺🇳-vmess | 4-1
+  - name: 🏳 Unknown-vmess | 4-1
     type: vmess
-    server: fbi.gov
+    server: 104.16.148.244
     port: 2086
     uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
     alterId: 0
@@ -358,6 +358,66 @@ proxies:
         enabled: true
         up: 11
         down: 55
+  - name: 🏳 Unknown-vmess | 7-1
+    type: vmess
+    server: 104.16.149.222
+    port: 2095
+    uuid: e9555d84-a146-4e36-9c23-eac28387be48
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5.freegradely.xyz
+    ws-opts:
+      path: /WNh8bXQv/
+      headers:
+        Host: ip5.freegradely.xyz
+  - name: CA 🇨🇦-vmess | 7-2
+    type: vmess
+    server: 23.227.38.8
+    port: 2095
+    uuid: e9555d84-a146-4e36-9c23-eac28387be48
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5.freegradely.xyz
+    ws-opts:
+      path: /WNh8bXQv/
+      headers:
+        Host: ip5.freegradely.xyz
+  - name: US 🇺🇸-vmess | 7-3
+    type: vmess
+    server: 172.64.144.66
+    port: 2095
+    uuid: e9555d84-a146-4e36-9c23-eac28387be48
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5.freegradely.xyz
+    ws-opts:
+      path: /WNh8bXQv/
+      headers:
+        Host: ip5.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 7-4
+    type: vmess
+    server: 104.19.38.88
+    port: 2095
+    uuid: e9555d84-a146-4e36-9c23-eac28387be48
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5.freegradely.xyz
+    ws-opts:
+      path: /WNh8bXQv/
+      headers:
+        Host: ip5.freegradely.xyz
   - name: US 🇺🇸-vless | 8-1
     type: vless
     server: 109.104.152.101
@@ -591,6 +651,13 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 7-0
+    type: hysteria2
+    server: 109.104.152.89
+    port: 22441
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
   - name: Unknown 🇺🇳-vless | 2-0
     type: vless
     server: yh7.dtku41.xyz
@@ -657,7 +724,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Unknown 🇺🇳-vmess | 0-1
+      - 🏳 Unknown-vmess | 0-1
       - US 🇺🇸-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
@@ -667,18 +734,22 @@ proxy-groups:
       - 🏳 Unknown-vmess | 1-4
       - 🏳 Unknown-vmess | 2-1
       - CA 🇨🇦-vmess | 2-2
-      - Unknown 🇺🇳-vmess | 2-3
+      - 🏳 Unknown-vmess | 2-3
       - 🏳 Unknown-vmess | 2-4
       - 🏳 Unknown-vmess | 3-1
       - US 🇺🇸-vmess | 3-2
       - CA 🇨🇦-vmess | 3-3
       - 🏳 Unknown-vmess | 3-4
-      - Unknown 🇺🇳-vmess | 4-1
+      - 🏳 Unknown-vmess | 4-1
       - CA 🇨🇦-vmess | 4-2
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - US 🇺🇸-vless | 5-1
       - US 🇺🇸-ss | 6-1
+      - 🏳 Unknown-vmess | 7-1
+      - CA 🇨🇦-vmess | 7-2
+      - US 🇺🇸-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
@@ -700,6 +771,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
+      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vless | 2-0
       - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
@@ -710,7 +782,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - Unknown 🇺🇳-vmess | 0-1
+      - 🏳 Unknown-vmess | 0-1
       - US 🇺🇸-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
@@ -720,18 +792,22 @@ proxy-groups:
       - 🏳 Unknown-vmess | 1-4
       - 🏳 Unknown-vmess | 2-1
       - CA 🇨🇦-vmess | 2-2
-      - Unknown 🇺🇳-vmess | 2-3
+      - 🏳 Unknown-vmess | 2-3
       - 🏳 Unknown-vmess | 2-4
       - 🏳 Unknown-vmess | 3-1
       - US 🇺🇸-vmess | 3-2
       - CA 🇨🇦-vmess | 3-3
       - 🏳 Unknown-vmess | 3-4
-      - Unknown 🇺🇳-vmess | 4-1
+      - 🏳 Unknown-vmess | 4-1
       - CA 🇨🇦-vmess | 4-2
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - US 🇺🇸-vless | 5-1
       - US 🇺🇸-ss | 6-1
+      - 🏳 Unknown-vmess | 7-1
+      - CA 🇨🇦-vmess | 7-2
+      - US 🇺🇸-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-ss | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
@@ -753,6 +829,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
+      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vless | 2-0
       - Unknown 🇺🇳-vless | 4-0
       - Unknown 🇺🇳-vless | 5-0
