@@ -351,29 +351,18 @@ proxies:
         enabled: true
         up: 11
         down: 55
-  - name: US 🇺🇸-ss | 6-1
-    type: ss
+  - name: US 🇺🇸-tuic | 6-1
     server: 109.104.152.186
-    port: 443
-    cipher: 2022-blake3-chacha20-poly1305
-    password: 2mLw+aTguEUrvK/Jamxr4CY/RbLCL/MmfWJQ7c6bXe8=
-    plugin: shadow-tls
-    plugin-opts:
-      host: nijigen-works.jp
-      password: UcMMbVQBzIUAcdC12ju6lV9j3rjK3cAQiZoYCDk1h/g=
-      version: 3
-    smux:
-      enabled: true
-      protocol: smux
-      max-connections: 1
-      min-streams: 4
-      statistic: false
-      only-tcp: false
-      padding: true
-      brutal-opts:
-        enabled: true
-        up: 11
-        down: 55
+    port: 44550
+    type: tuic
+    uuid: 760d4891-63ab-40db-98c7-1219ae1b92df
+    password: dongtaiwang.com
+    alpn:
+      - h3
+    disable-sni: true
+    reduce-rtt: true
+    udp-relay-mode: native
+    congestion-controller: bbr
   - name: 🏳 Unknown-vmess | 7-1
     type: vmess
     server: 104.16.149.222
@@ -458,24 +447,18 @@ proxies:
         enabled: true
         up: 11
         down: 55
-  - name: US 🇺🇸-ss | 9-1
-    type: ss
+  - name: US 🇺🇸-tuic | 9-1
     server: 109.104.152.186
-    port: 11223
-    cipher: 2022-blake3-chacha20-poly1305
-    password: 7/bb9x3TJQ4Y5SRA/Al3OdwxIk4uf3Jg8N9wDQg+Uto=
-    smux:
-      enabled: true
-      protocol: smux
-      max-connections: 1
-      min-streams: 4
-      statistic: false
-      only-tcp: false
-      padding: true
-      brutal-opts:
-        enabled: true
-        up: 11
-        down: 55
+    port: 44550
+    type: tuic
+    uuid: 760d4891-63ab-40db-98c7-1219ae1b92df
+    password: dongtaiwang.com
+    alpn:
+      - h3
+    disable-sni: true
+    reduce-rtt: true
+    udp-relay-mode: native
+    congestion-controller: bbr
   - name: Unknown 🇺🇳-hysteria | 10-1
     type: hysteria
     server: clash1.dtku47.xyz
@@ -762,13 +745,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - US 🇺🇸-vless | 5-1
-      - US 🇺🇸-ss | 6-1
+      - US 🇺🇸-tuic | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - US 🇺🇸-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
-      - US 🇺🇸-ss | 9-1
+      - US 🇺🇸-tuic | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
       - Unknown 🇺🇳-hysteria | 11-1
       - Unknown 🇺🇳-hysteria | 12-1
@@ -820,13 +803,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - US 🇺🇸-vless | 5-1
-      - US 🇺🇸-ss | 6-1
+      - US 🇺🇸-tuic | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - US 🇺🇸-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
-      - US 🇺🇸-ss | 9-1
+      - US 🇺🇸-tuic | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
       - Unknown 🇺🇳-hysteria | 11-1
       - Unknown 🇺🇳-hysteria | 12-1
@@ -878,13 +861,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - US 🇺🇸-vless | 5-1
-      - US 🇺🇸-ss | 6-1
+      - US 🇺🇸-tuic | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - US 🇺🇸-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
-      - US 🇺🇸-ss | 9-1
+      - US 🇺🇸-tuic | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
       - Unknown 🇺🇳-hysteria | 11-1
       - Unknown 🇺🇳-hysteria | 12-1
