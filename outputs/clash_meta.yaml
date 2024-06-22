@@ -26,9 +26,9 @@ proxies:
       path: e9e3cc13-db48-4cc1-8c24-7626439a5339-vm
       headers:
         Host: ip11.freegradely.xyz
-  - name: US 🇺🇸-vmess | 0-2
+  - name: 🏳 Unknown-vmess | 0-2
     type: vmess
-    server: 172.64.169.160
+    server: 104.26.0.56
     port: 2086
     uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
     alterId: 0
@@ -377,9 +377,9 @@ proxies:
       path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
       headers:
         Host: ip5-4.freegradely.xyz
-  - name: US 🇺🇸-vmess | 7-3
+  - name: 🏳 Unknown-vmess | 7-3
     type: vmess
-    server: 172.64.144.66
+    server: 104.26.0.50
     port: 2086
     uuid: d726eb31-0c9e-49f9-8968-59c06f4ea15c
     alterId: 0
@@ -708,7 +708,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🏳 Unknown-vmess | 0-1
-      - US 🇺🇸-vmess | 0-2
+      - 🏳 Unknown-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
       - 🏳 Unknown-vmess | 1-1
@@ -731,7 +731,7 @@ proxy-groups:
       - US 🇺🇸-tuic | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
-      - US 🇺🇸-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-tuic | 9-1
@@ -766,7 +766,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🏳 Unknown-vmess | 0-1
-      - US 🇺🇸-vmess | 0-2
+      - 🏳 Unknown-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
       - 🏳 Unknown-vmess | 1-1
@@ -789,7 +789,7 @@ proxy-groups:
       - US 🇺🇸-tuic | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
-      - US 🇺🇸-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - US 🇺🇸-vless | 8-1
       - US 🇺🇸-tuic | 9-1
