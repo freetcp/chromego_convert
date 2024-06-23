@@ -87,6 +87,411 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-5
+    type: vmess
+    server: 172.64.175.88
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-6
+    type: vmess
+    server: 172.64.99.22
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-7
+    type: vmess
+    server: 104.19.21.71
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-8
+    type: vmess
+    server: 172.64.175.213
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-9
+    type: vmess
+    server: 172.64.198.249
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-10
+    type: vmess
+    server: 172.64.194.76
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-11
+    type: vmess
+    server: 104.19.21.63
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-12
+    type: vmess
+    server: 104.19.123.11
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-13
+    type: vmess
+    server: 104.18.57.111
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-14
+    type: vmess
+    server: 104.19.21.230
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-15
+    type: vmess
+    server: 104.19.21.230
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-16
+    type: vmess
+    server: 104.19.46.103
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-17
+    type: vmess
+    server: 104.19.32.216
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-18
+    type: vmess
+    server: 104.19.47.65
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-19
+    type: vmess
+    server: 104.19.58.175
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-20
+    type: vmess
+    server: 104.19.55.49
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-21
+    type: vmess
+    server: 104.19.42.49
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-22
+    type: vmess
+    server: 104.17.106.151
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-23
+    type: vmess
+    server: 104.19.57.4
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-24
+    type: vmess
+    server: 104.19.59.89
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-25
+    type: vmess
+    server: 104.20.17.186
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-26
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-27
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-28
+    type: vmess
+    server: 104.26.7.132
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-29
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 0-30
+    type: vmess
+    server: 104.20.17.186
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
+  - name: US 🇺🇸-vmess | 0-31
+    type: vmess
+    server: 172.67.74.112
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip11.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip11.freegradely.xyz
   - name: 🏳 Unknown-vmess | 1-1
     type: vmess
     server: 104.19.38.10
@@ -677,21 +1082,6 @@ proxies:
     h2-opts:
       path: /
       host: []
-  - name: Unknown 🇺🇳-vless | 3-0
-    type: vless
-    server: yh7.dtku41.xyz
-    port: 443
-    uuid: ebfdccb6-7416-4b6e-860d-98587344d500
-    tls: true
-    servername: lg1.freessr2.xyz
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: /xyakws
-      headers:
-        Host: lg1.freessr2.xyz
-    grpc-opts:
-      serviceName: /
   - name: Unknown 🇺🇳-vmess | 4-0
     type: vmess
     server: yh1.dtku41.xyz
@@ -743,6 +1133,33 @@ proxy-groups:
       - 🏳 Unknown-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
+      - US 🇺🇸-vmess | 0-5
+      - US 🇺🇸-vmess | 0-6
+      - 🏳 Unknown-vmess | 0-7
+      - US 🇺🇸-vmess | 0-8
+      - US 🇺🇸-vmess | 0-9
+      - US 🇺🇸-vmess | 0-10
+      - 🏳 Unknown-vmess | 0-11
+      - 🏳 Unknown-vmess | 0-12
+      - 🏳 Unknown-vmess | 0-13
+      - 🏳 Unknown-vmess | 0-14
+      - 🏳 Unknown-vmess | 0-15
+      - 🏳 Unknown-vmess | 0-16
+      - 🏳 Unknown-vmess | 0-17
+      - 🏳 Unknown-vmess | 0-18
+      - 🏳 Unknown-vmess | 0-19
+      - 🏳 Unknown-vmess | 0-20
+      - 🏳 Unknown-vmess | 0-21
+      - 🏳 Unknown-vmess | 0-22
+      - 🏳 Unknown-vmess | 0-23
+      - 🏳 Unknown-vmess | 0-24
+      - 🏳 Unknown-vmess | 0-25
+      - 🏳 Unknown-vmess | 0-26
+      - 🏳 Unknown-vmess | 0-27
+      - 🏳 Unknown-vmess | 0-28
+      - 🏳 Unknown-vmess | 0-29
+      - 🏳 Unknown-vmess | 0-30
+      - US 🇺🇸-vmess | 0-31
       - 🏳 Unknown-vmess | 1-1
       - CA 🇨🇦-vmess | 1-2
       - 🏳 Unknown-vmess | 1-3
@@ -788,7 +1205,6 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vmess | 2-0
-      - Unknown 🇺🇳-vless | 3-0
       - Unknown 🇺🇳-vmess | 4-0
       - Unknown 🇺🇳-vmess | 6-0
   - name: ♻️ 自动选择
@@ -801,6 +1217,33 @@ proxy-groups:
       - 🏳 Unknown-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
+      - US 🇺🇸-vmess | 0-5
+      - US 🇺🇸-vmess | 0-6
+      - 🏳 Unknown-vmess | 0-7
+      - US 🇺🇸-vmess | 0-8
+      - US 🇺🇸-vmess | 0-9
+      - US 🇺🇸-vmess | 0-10
+      - 🏳 Unknown-vmess | 0-11
+      - 🏳 Unknown-vmess | 0-12
+      - 🏳 Unknown-vmess | 0-13
+      - 🏳 Unknown-vmess | 0-14
+      - 🏳 Unknown-vmess | 0-15
+      - 🏳 Unknown-vmess | 0-16
+      - 🏳 Unknown-vmess | 0-17
+      - 🏳 Unknown-vmess | 0-18
+      - 🏳 Unknown-vmess | 0-19
+      - 🏳 Unknown-vmess | 0-20
+      - 🏳 Unknown-vmess | 0-21
+      - 🏳 Unknown-vmess | 0-22
+      - 🏳 Unknown-vmess | 0-23
+      - 🏳 Unknown-vmess | 0-24
+      - 🏳 Unknown-vmess | 0-25
+      - 🏳 Unknown-vmess | 0-26
+      - 🏳 Unknown-vmess | 0-27
+      - 🏳 Unknown-vmess | 0-28
+      - 🏳 Unknown-vmess | 0-29
+      - 🏳 Unknown-vmess | 0-30
+      - US 🇺🇸-vmess | 0-31
       - 🏳 Unknown-vmess | 1-1
       - CA 🇨🇦-vmess | 1-2
       - 🏳 Unknown-vmess | 1-3
@@ -846,7 +1289,6 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vmess | 2-0
-      - Unknown 🇺🇳-vless | 3-0
       - Unknown 🇺🇳-vmess | 4-0
       - Unknown 🇺🇳-vmess | 6-0
   - name: ⚖ 负载均衡
@@ -859,6 +1301,33 @@ proxy-groups:
       - 🏳 Unknown-vmess | 0-2
       - CA 🇨🇦-vmess | 0-3
       - 🏳 Unknown-vmess | 0-4
+      - US 🇺🇸-vmess | 0-5
+      - US 🇺🇸-vmess | 0-6
+      - 🏳 Unknown-vmess | 0-7
+      - US 🇺🇸-vmess | 0-8
+      - US 🇺🇸-vmess | 0-9
+      - US 🇺🇸-vmess | 0-10
+      - 🏳 Unknown-vmess | 0-11
+      - 🏳 Unknown-vmess | 0-12
+      - 🏳 Unknown-vmess | 0-13
+      - 🏳 Unknown-vmess | 0-14
+      - 🏳 Unknown-vmess | 0-15
+      - 🏳 Unknown-vmess | 0-16
+      - 🏳 Unknown-vmess | 0-17
+      - 🏳 Unknown-vmess | 0-18
+      - 🏳 Unknown-vmess | 0-19
+      - 🏳 Unknown-vmess | 0-20
+      - 🏳 Unknown-vmess | 0-21
+      - 🏳 Unknown-vmess | 0-22
+      - 🏳 Unknown-vmess | 0-23
+      - 🏳 Unknown-vmess | 0-24
+      - 🏳 Unknown-vmess | 0-25
+      - 🏳 Unknown-vmess | 0-26
+      - 🏳 Unknown-vmess | 0-27
+      - 🏳 Unknown-vmess | 0-28
+      - 🏳 Unknown-vmess | 0-29
+      - 🏳 Unknown-vmess | 0-30
+      - US 🇺🇸-vmess | 0-31
       - 🏳 Unknown-vmess | 1-1
       - CA 🇨🇦-vmess | 1-2
       - 🏳 Unknown-vmess | 1-3
@@ -904,7 +1373,6 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vmess | 2-0
-      - Unknown 🇺🇳-vless | 3-0
       - Unknown 🇺🇳-vmess | 4-0
       - Unknown 🇺🇳-vmess | 6-0
   - name: ☁ WARP前置节点
