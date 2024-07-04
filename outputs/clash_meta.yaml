@@ -11,6 +11,1672 @@ profile:
   tracing: true
 global-client-fingerprint: chrome
 proxies:
+  - name: 🏳 Unknown-vmess | 0-1
+    type: vmess
+    server: 104.19.38.8
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-2
+    type: vmess
+    server: 104.26.0.56
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: CA 🇨🇦-vmess | 0-3
+    type: vmess
+    server: 23.227.38.3
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-4
+    type: vmess
+    server: 104.19.38.12
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: US 🇺🇸-vmess | 0-5
+    type: vmess
+    server: 172.64.175.88
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: US 🇺🇸-vmess | 0-6
+    type: vmess
+    server: 172.64.99.22
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-7
+    type: vmess
+    server: 104.19.21.71
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: US 🇺🇸-vmess | 0-8
+    type: vmess
+    server: 172.64.175.213
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: US 🇺🇸-vmess | 0-9
+    type: vmess
+    server: 172.64.198.249
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: US 🇺🇸-vmess | 0-10
+    type: vmess
+    server: 172.64.194.76
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-11
+    type: vmess
+    server: 104.19.21.63
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-12
+    type: vmess
+    server: 104.19.123.11
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-13
+    type: vmess
+    server: 104.18.57.111
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-14
+    type: vmess
+    server: 104.19.21.230
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-15
+    type: vmess
+    server: 104.19.21.230
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-16
+    type: vmess
+    server: 104.19.46.103
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-17
+    type: vmess
+    server: 104.19.32.216
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-18
+    type: vmess
+    server: 104.19.47.65
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-19
+    type: vmess
+    server: 104.19.58.175
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-20
+    type: vmess
+    server: 104.19.55.49
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-21
+    type: vmess
+    server: 104.19.42.49
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-22
+    type: vmess
+    server: 104.17.106.151
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-23
+    type: vmess
+    server: 104.19.57.4
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-24
+    type: vmess
+    server: 104.19.59.89
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-25
+    type: vmess
+    server: 104.20.17.186
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-26
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-27
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-28
+    type: vmess
+    server: 104.26.7.132
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-29
+    type: vmess
+    server: 104.20.25.146
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-30
+    type: vmess
+    server: 104.20.17.186
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-31
+    type: vmess
+    server: 104.19.45.11
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-32
+    type: vmess
+    server: 104.19.45.13
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-33
+    type: vmess
+    server: 104.19.45.15
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-34
+    type: vmess
+    server: 104.19.45.17
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-35
+    type: vmess
+    server: 104.19.45.19
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-36
+    type: vmess
+    server: 104.19.45.31
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-37
+    type: vmess
+    server: 104.19.45.35
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-38
+    type: vmess
+    server: 104.19.45.42
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-39
+    type: vmess
+    server: 104.19.45.47
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-40
+    type: vmess
+    server: 104.19.45.50
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-41
+    type: vmess
+    server: 104.19.45.90
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-42
+    type: vmess
+    server: 104.19.46.17
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-43
+    type: vmess
+    server: 104.19.46.22
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-44
+    type: vmess
+    server: 104.19.46.27
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-45
+    type: vmess
+    server: 104.19.46.33
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-46
+    type: vmess
+    server: 104.19.46.36
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-47
+    type: vmess
+    server: 104.19.46.39
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-48
+    type: vmess
+    server: 104.19.46.42
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-49
+    type: vmess
+    server: 104.19.46.56
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-50
+    type: vmess
+    server: 104.19.46.59
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-51
+    type: vmess
+    server: 104.19.46.63
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-52
+    type: vmess
+    server: 104.19.47.22
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-53
+    type: vmess
+    server: 104.19.47.27
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-54
+    type: vmess
+    server: 104.19.47.32
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-55
+    type: vmess
+    server: 104.19.47.36
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-56
+    type: vmess
+    server: 104.19.47.45
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-57
+    type: vmess
+    server: 104.19.47.77
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-58
+    type: vmess
+    server: 104.19.47.79
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-59
+    type: vmess
+    server: 104.19.47.88
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-60
+    type: vmess
+    server: 104.19.47.80
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 0-61
+    type: vmess
+    server: 104.19.47.122
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip1.1457230.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip1.1457230.xyz
+  - name: 🏳 Unknown-vmess | 1-1
+    type: vmess
+    server: 104.19.38.18
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-2
+    type: vmess
+    server: 104.26.0.66
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: CA 🇨🇦-vmess | 1-3
+    type: vmess
+    server: 23.227.38.13
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-4
+    type: vmess
+    server: 104.19.38.22
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-5
+    type: vmess
+    server: 172.64.175.98
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-6
+    type: vmess
+    server: 172.64.99.32
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-7
+    type: vmess
+    server: 104.19.21.81
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-8
+    type: vmess
+    server: 172.64.175.223
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-9
+    type: vmess
+    server: 172.64.198.229
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-10
+    type: vmess
+    server: 172.64.194.96
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-11
+    type: vmess
+    server: 104.19.21.73
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-12
+    type: vmess
+    server: 104.19.123.31
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-13
+    type: vmess
+    server: 104.18.57.121
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-14
+    type: vmess
+    server: 104.19.21.240
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-15
+    type: vmess
+    server: 104.19.21.220
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-16
+    type: vmess
+    server: 104.19.46.123
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-17
+    type: vmess
+    server: 104.19.32.226
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-18
+    type: vmess
+    server: 104.19.47.75
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-19
+    type: vmess
+    server: 104.19.58.185
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-20
+    type: vmess
+    server: 104.19.55.79
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-21
+    type: vmess
+    server: 104.19.42.79
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-22
+    type: vmess
+    server: 104.17.106.171
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-23
+    type: vmess
+    server: 104.19.57.24
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-24
+    type: vmess
+    server: 104.19.59.99
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-25
+    type: vmess
+    server: 104.20.17.196
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-26
+    type: vmess
+    server: 104.20.25.166
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-27
+    type: vmess
+    server: 104.20.25.176
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-28
+    type: vmess
+    server: 104.26.7.152
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-29
+    type: vmess
+    server: 104.20.25.166
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 1-30
+    type: vmess
+    server: 104.20.17.196
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: US 🇺🇸-vmess | 1-31
+    type: vmess
+    server: 172.67.74.122
+    port: 2052
+    uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: cdn2.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: cdn2.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 2-1
+    type: vmess
+    server: 104.19.51.232
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.freegradely.xyz
+  - name: CA 🇨🇦-vmess | 2-2
+    type: vmess
+    server: 23.227.38.5
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 2-3
+    type: vmess
+    server: 104.16.148.244
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 2-4
+    type: vmess
+    server: 104.19.38.62
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 3-1
+    type: vmess
+    server: 104.19.32.46
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.dtku47.xyz
+  - name: CA 🇨🇦-vmess | 3-2
+    type: vmess
+    server: 23.227.38.6
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.dtku47.xyz
+  - name: 🏳 Unknown-vmess | 3-3
+    type: vmess
+    server: 104.19.51.232
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.dtku47.xyz
+  - name: 🏳 Unknown-vmess | 3-4
+    type: vmess
+    server: 104.19.38.62
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip005.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip005.dtku47.xyz
+  - name: 🏳 Unknown-vmess | 4-1
+    type: vmess
+    server: 104.19.46.233
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip004.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip004.dtku47.xyz
+  - name: CA 🇨🇦-vmess | 4-2
+    type: vmess
+    server: 23.227.38.6
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip004.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip004.dtku47.xyz
+  - name: 🏳 Unknown-vmess | 4-3
+    type: vmess
+    server: 104.19.51.232
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip004.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip004.dtku47.xyz
+  - name: 🏳 Unknown-vmess | 4-4
+    type: vmess
+    server: 104.19.38.62
+    port: 2086
+    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip004.dtku47.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip004.dtku47.xyz
+  - name: Unknown 🇺🇳-ss | 5-1
+    type: ss
+    server: 23.170.40.77
+    port: 443
+    cipher: 2022-blake3-chacha20-poly1305
+    password: CmUP/cj9LY2W4bsBUV7mG8ujmMcCOzt+b4un9xnLuro=
+    plugin: shadow-tls
+    plugin-opts:
+      host: nijigen-works.jp
+      password: K+NtA/8R8MTQ9vyZAd0kzUYJkwQmQBkUIQmwa2Po8cM=
+      version: 3
+  - name: Unknown 🇺🇳-ss | 6-1
+    type: ss
+    server: 23.170.40.77
+    port: 443
+    cipher: 2022-blake3-chacha20-poly1305
+    password: CmUP/cj9LY2W4bsBUV7mG8ujmMcCOzt+b4un9xnLuro=
+    plugin: shadow-tls
+    plugin-opts:
+      host: nijigen-works.jp
+      password: K+NtA/8R8MTQ9vyZAd0kzUYJkwQmQBkUIQmwa2Po8cM=
+      version: 3
+  - name: 🏳 Unknown-vmess | 7-1
+    type: vmess
+    server: 104.19.32.88
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5-7.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip5-7.freegradely.xyz
+  - name: CA 🇨🇦-vmess | 7-2
+    type: vmess
+    server: 23.227.38.8
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5-7.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip5-7.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 7-3
+    type: vmess
+    server: 104.26.0.50
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5-7.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip5-7.freegradely.xyz
+  - name: 🏳 Unknown-vmess | 7-4
+    type: vmess
+    server: 104.19.38.88
+    port: 2086
+    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    alterId: 0
+    cipher: auto
+    udp: true
+    tls: false
+    network: ws
+    servername: ip5-7.freegradely.xyz
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        Host: ip5-7.freegradely.xyz
+  - name: Unknown 🇺🇳-ss | 8-1
+    type: ss
+    server: 23.170.40.77
+    port: 443
+    cipher: 2022-blake3-chacha20-poly1305
+    password: CmUP/cj9LY2W4bsBUV7mG8ujmMcCOzt+b4un9xnLuro=
+    plugin: shadow-tls
+    plugin-opts:
+      host: nijigen-works.jp
+      password: K+NtA/8R8MTQ9vyZAd0kzUYJkwQmQBkUIQmwa2Po8cM=
+      version: 3
+  - name: Unknown 🇺🇳-hysteria | 9-1
+    type: hysteria
+    server: 23.170.40.77
+    port: 30009
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+    protocol: udp
+    auth_str: dongtaiwang.com
+    up: 11
+    down: 55
+    hop_interval: 10
   - name: Unknown 🇺🇳-hysteria | 10-1
     type: hysteria
     server: clash1.dtku47.xyz
@@ -118,6 +1784,97 @@ proxies:
     protocol: udp
     up: 50 Mbps
     down: 100 Mbps
+  - name: FR 🇫🇷-Hysteria | 0-0
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth-str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: FR 🇫🇷-Hysteria | 1-0
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth-str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: FR 🇫🇷-Hysteria | 2-0
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth-str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: FR 🇫🇷-Hysteria | 3-0
+    type: hysteria
+    server: 62.210.243.131
+    port: 18702
+    ports: 18702
+    auth-str: dongtaiwang.com
+    up: 80
+    down: 100
+    fast-open: true
+    protocol: udp
+    sni: bing.com
+    skip-cert-verify: true
+    alpn:
+      - h3
+  - name: US 🇺🇸-Hysteria2 | 0-0
+    type: hysteria2
+    server: 166.88.159.24
+    port: 40931
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 4-0
+    type: hysteria2
+    server: 104.192.224.139
+    port: 40391
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 5-0
+    type: hysteria2
+    server: 104.192.224.142
+    port: 40391
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 6-0
+    type: hysteria2
+    server: 64.110.25.11
+    port: 37021
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
+  - name: US 🇺🇸-Hysteria2 | 7-0
+    type: hysteria2
+    server: 109.104.152.89
+    port: 22441
+    password: dongtaiwang.com
+    sni: www.bing.com
+    skip-cert-verify: true
   - name: Unknown 🇺🇳-vmess | 2-0
     type: vmess
     server: yh7.dtku41.xyz
@@ -184,6 +1941,118 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🏳 Unknown-vmess | 0-1
+      - 🏳 Unknown-vmess | 0-2
+      - CA 🇨🇦-vmess | 0-3
+      - 🏳 Unknown-vmess | 0-4
+      - US 🇺🇸-vmess | 0-5
+      - US 🇺🇸-vmess | 0-6
+      - 🏳 Unknown-vmess | 0-7
+      - US 🇺🇸-vmess | 0-8
+      - US 🇺🇸-vmess | 0-9
+      - US 🇺🇸-vmess | 0-10
+      - 🏳 Unknown-vmess | 0-11
+      - 🏳 Unknown-vmess | 0-12
+      - 🏳 Unknown-vmess | 0-13
+      - 🏳 Unknown-vmess | 0-14
+      - 🏳 Unknown-vmess | 0-15
+      - 🏳 Unknown-vmess | 0-16
+      - 🏳 Unknown-vmess | 0-17
+      - 🏳 Unknown-vmess | 0-18
+      - 🏳 Unknown-vmess | 0-19
+      - 🏳 Unknown-vmess | 0-20
+      - 🏳 Unknown-vmess | 0-21
+      - 🏳 Unknown-vmess | 0-22
+      - 🏳 Unknown-vmess | 0-23
+      - 🏳 Unknown-vmess | 0-24
+      - 🏳 Unknown-vmess | 0-25
+      - 🏳 Unknown-vmess | 0-26
+      - 🏳 Unknown-vmess | 0-27
+      - 🏳 Unknown-vmess | 0-28
+      - 🏳 Unknown-vmess | 0-29
+      - 🏳 Unknown-vmess | 0-30
+      - 🏳 Unknown-vmess | 0-31
+      - 🏳 Unknown-vmess | 0-32
+      - 🏳 Unknown-vmess | 0-33
+      - 🏳 Unknown-vmess | 0-34
+      - 🏳 Unknown-vmess | 0-35
+      - 🏳 Unknown-vmess | 0-36
+      - 🏳 Unknown-vmess | 0-37
+      - 🏳 Unknown-vmess | 0-38
+      - 🏳 Unknown-vmess | 0-39
+      - 🏳 Unknown-vmess | 0-40
+      - 🏳 Unknown-vmess | 0-41
+      - 🏳 Unknown-vmess | 0-42
+      - 🏳 Unknown-vmess | 0-43
+      - 🏳 Unknown-vmess | 0-44
+      - 🏳 Unknown-vmess | 0-45
+      - 🏳 Unknown-vmess | 0-46
+      - 🏳 Unknown-vmess | 0-47
+      - 🏳 Unknown-vmess | 0-48
+      - 🏳 Unknown-vmess | 0-49
+      - 🏳 Unknown-vmess | 0-50
+      - 🏳 Unknown-vmess | 0-51
+      - 🏳 Unknown-vmess | 0-52
+      - 🏳 Unknown-vmess | 0-53
+      - 🏳 Unknown-vmess | 0-54
+      - 🏳 Unknown-vmess | 0-55
+      - 🏳 Unknown-vmess | 0-56
+      - 🏳 Unknown-vmess | 0-57
+      - 🏳 Unknown-vmess | 0-58
+      - 🏳 Unknown-vmess | 0-59
+      - 🏳 Unknown-vmess | 0-60
+      - 🏳 Unknown-vmess | 0-61
+      - 🏳 Unknown-vmess | 1-1
+      - 🏳 Unknown-vmess | 1-2
+      - CA 🇨🇦-vmess | 1-3
+      - 🏳 Unknown-vmess | 1-4
+      - US 🇺🇸-vmess | 1-5
+      - US 🇺🇸-vmess | 1-6
+      - 🏳 Unknown-vmess | 1-7
+      - US 🇺🇸-vmess | 1-8
+      - US 🇺🇸-vmess | 1-9
+      - US 🇺🇸-vmess | 1-10
+      - 🏳 Unknown-vmess | 1-11
+      - 🏳 Unknown-vmess | 1-12
+      - 🏳 Unknown-vmess | 1-13
+      - 🏳 Unknown-vmess | 1-14
+      - 🏳 Unknown-vmess | 1-15
+      - 🏳 Unknown-vmess | 1-16
+      - 🏳 Unknown-vmess | 1-17
+      - 🏳 Unknown-vmess | 1-18
+      - 🏳 Unknown-vmess | 1-19
+      - 🏳 Unknown-vmess | 1-20
+      - 🏳 Unknown-vmess | 1-21
+      - 🏳 Unknown-vmess | 1-22
+      - 🏳 Unknown-vmess | 1-23
+      - 🏳 Unknown-vmess | 1-24
+      - 🏳 Unknown-vmess | 1-25
+      - 🏳 Unknown-vmess | 1-26
+      - 🏳 Unknown-vmess | 1-27
+      - 🏳 Unknown-vmess | 1-28
+      - 🏳 Unknown-vmess | 1-29
+      - 🏳 Unknown-vmess | 1-30
+      - US 🇺🇸-vmess | 1-31
+      - 🏳 Unknown-vmess | 2-1
+      - CA 🇨🇦-vmess | 2-2
+      - 🏳 Unknown-vmess | 2-3
+      - 🏳 Unknown-vmess | 2-4
+      - 🏳 Unknown-vmess | 3-1
+      - CA 🇨🇦-vmess | 3-2
+      - 🏳 Unknown-vmess | 3-3
+      - 🏳 Unknown-vmess | 3-4
+      - 🏳 Unknown-vmess | 4-1
+      - CA 🇨🇦-vmess | 4-2
+      - 🏳 Unknown-vmess | 4-3
+      - 🏳 Unknown-vmess | 4-4
+      - Unknown 🇺🇳-ss | 5-1
+      - Unknown 🇺🇳-ss | 6-1
+      - 🏳 Unknown-vmess | 7-1
+      - CA 🇨🇦-vmess | 7-2
+      - 🏳 Unknown-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-4
+      - Unknown 🇺🇳-ss | 8-1
+      - Unknown 🇺🇳-hysteria | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
       - Unknown 🇺🇳-hysteria | 11-1
       - Unknown 🇺🇳-hysteria | 12-1
@@ -195,6 +2064,15 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
+      - FR 🇫🇷-Hysteria | 0-0
+      - FR 🇫🇷-Hysteria | 1-0
+      - FR 🇫🇷-Hysteria | 2-0
+      - FR 🇫🇷-Hysteria | 3-0
+      - US 🇺🇸-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 4-0
+      - US 🇺🇸-Hysteria2 | 5-0
+      - US 🇺🇸-Hysteria2 | 6-0
+      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vmess | 2-0
       - Unknown 🇺🇳-vmess | 4-0
       - Unknown 🇺🇳-vmess | 6-0
@@ -204,6 +2082,118 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🏳 Unknown-vmess | 0-1
+      - 🏳 Unknown-vmess | 0-2
+      - CA 🇨🇦-vmess | 0-3
+      - 🏳 Unknown-vmess | 0-4
+      - US 🇺🇸-vmess | 0-5
+      - US 🇺🇸-vmess | 0-6
+      - 🏳 Unknown-vmess | 0-7
+      - US 🇺🇸-vmess | 0-8
+      - US 🇺🇸-vmess | 0-9
+      - US 🇺🇸-vmess | 0-10
+      - 🏳 Unknown-vmess | 0-11
+      - 🏳 Unknown-vmess | 0-12
+      - 🏳 Unknown-vmess | 0-13
+      - 🏳 Unknown-vmess | 0-14
+      - 🏳 Unknown-vmess | 0-15
+      - 🏳 Unknown-vmess | 0-16
+      - 🏳 Unknown-vmess | 0-17
+      - 🏳 Unknown-vmess | 0-18
+      - 🏳 Unknown-vmess | 0-19
+      - 🏳 Unknown-vmess | 0-20
+      - 🏳 Unknown-vmess | 0-21
+      - 🏳 Unknown-vmess | 0-22
+      - 🏳 Unknown-vmess | 0-23
+      - 🏳 Unknown-vmess | 0-24
+      - 🏳 Unknown-vmess | 0-25
+      - 🏳 Unknown-vmess | 0-26
+      - 🏳 Unknown-vmess | 0-27
+      - 🏳 Unknown-vmess | 0-28
+      - 🏳 Unknown-vmess | 0-29
+      - 🏳 Unknown-vmess | 0-30
+      - 🏳 Unknown-vmess | 0-31
+      - 🏳 Unknown-vmess | 0-32
+      - 🏳 Unknown-vmess | 0-33
+      - 🏳 Unknown-vmess | 0-34
+      - 🏳 Unknown-vmess | 0-35
+      - 🏳 Unknown-vmess | 0-36
+      - 🏳 Unknown-vmess | 0-37
+      - 🏳 Unknown-vmess | 0-38
+      - 🏳 Unknown-vmess | 0-39
+      - 🏳 Unknown-vmess | 0-40
+      - 🏳 Unknown-vmess | 0-41
+      - 🏳 Unknown-vmess | 0-42
+      - 🏳 Unknown-vmess | 0-43
+      - 🏳 Unknown-vmess | 0-44
+      - 🏳 Unknown-vmess | 0-45
+      - 🏳 Unknown-vmess | 0-46
+      - 🏳 Unknown-vmess | 0-47
+      - 🏳 Unknown-vmess | 0-48
+      - 🏳 Unknown-vmess | 0-49
+      - 🏳 Unknown-vmess | 0-50
+      - 🏳 Unknown-vmess | 0-51
+      - 🏳 Unknown-vmess | 0-52
+      - 🏳 Unknown-vmess | 0-53
+      - 🏳 Unknown-vmess | 0-54
+      - 🏳 Unknown-vmess | 0-55
+      - 🏳 Unknown-vmess | 0-56
+      - 🏳 Unknown-vmess | 0-57
+      - 🏳 Unknown-vmess | 0-58
+      - 🏳 Unknown-vmess | 0-59
+      - 🏳 Unknown-vmess | 0-60
+      - 🏳 Unknown-vmess | 0-61
+      - 🏳 Unknown-vmess | 1-1
+      - 🏳 Unknown-vmess | 1-2
+      - CA 🇨🇦-vmess | 1-3
+      - 🏳 Unknown-vmess | 1-4
+      - US 🇺🇸-vmess | 1-5
+      - US 🇺🇸-vmess | 1-6
+      - 🏳 Unknown-vmess | 1-7
+      - US 🇺🇸-vmess | 1-8
+      - US 🇺🇸-vmess | 1-9
+      - US 🇺🇸-vmess | 1-10
+      - 🏳 Unknown-vmess | 1-11
+      - 🏳 Unknown-vmess | 1-12
+      - 🏳 Unknown-vmess | 1-13
+      - 🏳 Unknown-vmess | 1-14
+      - 🏳 Unknown-vmess | 1-15
+      - 🏳 Unknown-vmess | 1-16
+      - 🏳 Unknown-vmess | 1-17
+      - 🏳 Unknown-vmess | 1-18
+      - 🏳 Unknown-vmess | 1-19
+      - 🏳 Unknown-vmess | 1-20
+      - 🏳 Unknown-vmess | 1-21
+      - 🏳 Unknown-vmess | 1-22
+      - 🏳 Unknown-vmess | 1-23
+      - 🏳 Unknown-vmess | 1-24
+      - 🏳 Unknown-vmess | 1-25
+      - 🏳 Unknown-vmess | 1-26
+      - 🏳 Unknown-vmess | 1-27
+      - 🏳 Unknown-vmess | 1-28
+      - 🏳 Unknown-vmess | 1-29
+      - 🏳 Unknown-vmess | 1-30
+      - US 🇺🇸-vmess | 1-31
+      - 🏳 Unknown-vmess | 2-1
+      - CA 🇨🇦-vmess | 2-2
+      - 🏳 Unknown-vmess | 2-3
+      - 🏳 Unknown-vmess | 2-4
+      - 🏳 Unknown-vmess | 3-1
+      - CA 🇨🇦-vmess | 3-2
+      - 🏳 Unknown-vmess | 3-3
+      - 🏳 Unknown-vmess | 3-4
+      - 🏳 Unknown-vmess | 4-1
+      - CA 🇨🇦-vmess | 4-2
+      - 🏳 Unknown-vmess | 4-3
+      - 🏳 Unknown-vmess | 4-4
+      - Unknown 🇺🇳-ss | 5-1
+      - Unknown 🇺🇳-ss | 6-1
+      - 🏳 Unknown-vmess | 7-1
+      - CA 🇨🇦-vmess | 7-2
+      - 🏳 Unknown-vmess | 7-3
+      - 🏳 Unknown-vmess | 7-4
+      - Unknown 🇺🇳-ss | 8-1
+      - Unknown 🇺🇳-hysteria | 9-1
       - Unknown 🇺🇳-hysteria | 10-1
       - Unknown 🇺🇳-hysteria | 11-1
       - Unknown 🇺🇳-hysteria | 12-1
@@ -215,6 +2205,15 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
+      - FR 🇫🇷-Hysteria | 0-0
+      - FR 🇫🇷-Hysteria | 1-0
+      - FR 🇫🇷-Hysteria | 2-0
+      - FR 🇫🇷-Hysteria | 3-0
+      - US 🇺🇸-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 4-0
+      - US 🇺🇸-Hysteria2 | 5-0
+      - US 🇺🇸-Hysteria2 | 6-0
+      - US 🇺🇸-Hysteria2 | 7-0
       - Unknown 🇺🇳-vmess | 2-0
       - Unknown 🇺🇳-vmess | 4-0
       - Unknown 🇺🇳-vmess | 6-0
