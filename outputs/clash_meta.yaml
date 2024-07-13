@@ -2334,11 +2334,11 @@ proxies:
     protocol: udp
     up: 50 Mbps
     down: 100 Mbps
-  - name: FR 🇫🇷-Hysteria | 0-0
+  - name: US 🇺🇸-Hysteria | 0-0
     type: hysteria
-    server: 62.210.243.131
-    port: 18702
-    ports: 18702
+    server: 104.192.224.139
+    port: 42113
+    ports: 42113
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2348,11 +2348,11 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: FR 🇫🇷-Hysteria | 1-0
+  - name: US 🇺🇸-Hysteria | 1-0
     type: hysteria
-    server: 62.210.243.131
-    port: 18702
-    ports: 18702
+    server: 104.192.224.139
+    port: 42113
+    ports: 42113
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2362,11 +2362,11 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: FR 🇫🇷-Hysteria | 2-0
+  - name: US 🇺🇸-Hysteria | 2-0
     type: hysteria
-    server: 62.210.243.131
-    port: 18702
-    ports: 18702
+    server: 104.192.224.139
+    port: 42113
+    ports: 42113
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2376,11 +2376,11 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: FR 🇫🇷-Hysteria | 3-0
+  - name: US 🇺🇸-Hysteria | 3-0
     type: hysteria
-    server: 62.210.243.131
-    port: 18702
-    ports: 18702
+    server: 104.192.224.139
+    port: 42113
+    ports: 42113
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2629,10 +2629,10 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
-      - FR 🇫🇷-Hysteria | 0-0
-      - FR 🇫🇷-Hysteria | 1-0
-      - FR 🇫🇷-Hysteria | 2-0
-      - FR 🇫🇷-Hysteria | 3-0
+      - US 🇺🇸-Hysteria | 0-0
+      - US 🇺🇸-Hysteria | 1-0
+      - US 🇺🇸-Hysteria | 2-0
+      - US 🇺🇸-Hysteria | 3-0
       - FR 🇫🇷-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
@@ -2804,10 +2804,10 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
-      - FR 🇫🇷-Hysteria | 0-0
-      - FR 🇫🇷-Hysteria | 1-0
-      - FR 🇫🇷-Hysteria | 2-0
-      - FR 🇫🇷-Hysteria | 3-0
+      - US 🇺🇸-Hysteria | 0-0
+      - US 🇺🇸-Hysteria | 1-0
+      - US 🇺🇸-Hysteria | 2-0
+      - US 🇺🇸-Hysteria | 3-0
       - FR 🇫🇷-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
