@@ -104,9 +104,9 @@ proxies:
     h2-opts:
       path: /
       host: []
-  - name: Unknown 🇺🇳-vmess | 3-0
+  - name: 🏳 Unknown-vmess | 3-0
     type: vmess
-    server: yh7.dtku41.xyz
+    server: 162.159.143.73
     port: 2082
     uuid: 86e926b9-d67a-4c8f-a35e-024631838a45
     alterId: 0
@@ -158,7 +158,7 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
       - 🏳 Unknown-vmess | 1-0
-      - Unknown 🇺🇳-vmess | 3-0
+      - 🏳 Unknown-vmess | 3-0
       - Unknown 🇺🇳-vmess | 5-0
   - name: ♻️ 自动选择
     type: url-test
@@ -173,7 +173,7 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
       - 🏳 Unknown-vmess | 1-0
-      - Unknown 🇺🇳-vmess | 3-0
+      - 🏳 Unknown-vmess | 3-0
       - Unknown 🇺🇳-vmess | 5-0
   - name: ⚖ 负载均衡
     type: load-balance
@@ -188,7 +188,7 @@ proxy-groups:
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
       - 🏳 Unknown-vmess | 1-0
-      - Unknown 🇺🇳-vmess | 3-0
+      - 🏳 Unknown-vmess | 3-0
       - Unknown 🇺🇳-vmess | 5-0
   - name: ☁ WARP前置节点
     type: select
