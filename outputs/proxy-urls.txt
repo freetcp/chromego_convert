@@ -143,24 +143,25 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6Ytdm1lc3MgfCA0LTIiLCJhZGQiOiIyMy4yMjcu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBVbmtub3duLXZtZXNzIHwgNC0zIiwiYWRkIjoiMTA0LjE5LjUxLjIzMiIsInBvcnQiOjIwODYsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjowLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlwMDA1LmR0a3U0Ny54eXoiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJ0bHMiOiIiLCJzbmkiOiJpcDAwNS5kdGt1NDcueHl6IiwiYWxwbiI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBVbmtub3duLXZtZXNzIHwgNC00IiwiYWRkIjoiMTA0LjE5LjM4LjYyIiwicG9ydCI6MjA4NiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXAwMDUuZHRrdTQ3Lnh5eiIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsInRscyI6IiIsInNuaSI6ImlwMDA1LmR0a3U0Ny54eXoiLCJhbHBuIjoiIn0=
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q21VUC9jajlMWTJXNGJzQlVWN21HOHVqbU1jQ096dCtiNHVuOXhuTHVybz0=@23.170.40.77:443#Unknown 🇺🇳-ss | 5-1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q21VUC9jajlMWTJXNGJzQlVWN21HOHVqbU1jQ096dCtiNHVuOXhuTHVybz0=@23.170.40.77:443#Unknown 🇺🇳-ss | 6-1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RUpoRjdTQXM5NUpTUkRGRTU0d3lqcjc5R3ZLUEVtN3cwcUxwTWg2VDBhTT0=@51.159.2.179:443#FR 🇫🇷-ss | 6-1
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBVbmtub3duLXZtZXNzIHwgNy0xIiwiYWRkIjoiMTA0LjE5LjMyLjg4IiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXA1LTEwLmZyZWVncmFkZWx5Lnh5eiIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsInRscyI6IiIsInNuaSI6ImlwNS0xMC5mcmVlZ3JhZGVseS54eXoiLCJhbHBuIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6Ytdm1lc3MgfCA3LTIiLCJhZGQiOiIyMy4yMjcuMzguOCIsInBvcnQiOjIwODYsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjowLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlwNS0xMC5mcmVlZ3JhZGVseS54eXoiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJ0bHMiOiIiLCJzbmkiOiJpcDUtMTAuZnJlZWdyYWRlbHkueHl6IiwiYWxwbiI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBVbmtub3duLXZtZXNzIHwgNy0zIiwiYWRkIjoiMTA0LjI2LjAuNTAiLCJwb3J0IjoyMDg2LCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpcDUtMTAuZnJlZWdyYWRlbHkueHl6IiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwidGxzIjoiIiwic25pIjoiaXA1LTEwLmZyZWVncmFkZWx5Lnh5eiIsImFscG4iOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PsyBVbmtub3duLXZtZXNzIHwgNy00IiwiYWRkIjoiMTA0LjE5LjM4Ljg4IiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaXA1LTEwLmZyZWVncmFkZWx5Lnh5eiIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsInRscyI6IiIsInNuaSI6ImlwNS0xMC5mcmVlZ3JhZGVseS54eXoiLCJhbHBuIjoiIn0=
 tuic://285524a5-18ae-4bf4-8e89-473dfdc3a212:dongtaiwang.com@www2.dtku44.xyz:11224/?congestion_controller=bbr&udp_relay_mode=native&sni=&alpn=h3&allow_insecure=1&disable_sni=NaN#Unknown 🇺🇳-tuic | 8-1
-hysteria://23.170.40.77:30009/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 9-1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RUpoRjdTQXM5NUpTUkRGRTU0d3lqcjc5R3ZLUEVtN3cwcUxwTWg2VDBhTT0=@51.159.2.179:443#FR 🇫🇷-ss | 9-1
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ky9iNlErQ2JZZzhiODIza2l2QURlVmlSSGE3a2RCcHJ2aHB5VGsxNVFwWT0=@108.181.22.130:11256#US 🇺🇸-ss | 14-1
 hysteria://hy1.dtku47.xyz:11257/?protocol=udp&insecure=0&peer=&auth=oO5q7L6QPSuJ&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 15-1
 tuic://39edbd65-1a14-4d58-bb5a-3b69c52d0869:hSOogY0SXn4T@tuic1.dtku47.xyz:22336/?congestion_controller=bbr&udp_relay_mode=native&sni=&alpn=h3&allow_insecure=1&disable_sni=0#Unknown 🇺🇳-tuic | 16-1
 hysteria://clash1.dtku47.xyz:11223/?protocol=udp&insecure=0&peer=&auth=O5tQQiW2xKf5&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 18-1
 hysteria://hy2.dtku47.xyz:15566/?protocol=udp&insecure=0&peer=&auth=jQrGpwSqp34P&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 19-1
 hysteria://hy1.dtku47.xyz:22334/?protocol=udp&insecure=0&peer=&auth=lASdKzWK0VxL&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 20-1
-hysteria://104.192.224.139:42113/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 0-0
+hysteria://166.1.18.52:41363/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 0-0
 hysteria://104.192.224.139:42113/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 1-0
 hysteria://104.192.224.139:42113/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 2-0
-hysteria://104.192.224.139:42113/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 3-0
-hysteria2://dongtaiwang.com@51.159.2.179:23499/?sni=bing.com&insecure=NaN#FR 🇫🇷-Hysteria2 | 0-0
+hysteria://166.1.18.52:41363/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 3-0
+hysteria2://dongtaiwang.com@38.114.103.210:30647/?sni=bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 0-0
+hysteria2://dongtaiwang.com@51.159.2.179:23499/?sni=bing.com&insecure=NaN#FR 🇫🇷-Hysteria2 | 2-0
 hysteria2://dongtaiwang.com@104.192.224.139:40391/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 4-0
 hysteria2://dongtaiwang.com@104.192.224.142:40391/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 5-0
 hysteria2://dongtaiwang.com@64.110.25.11:37021/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 6-0

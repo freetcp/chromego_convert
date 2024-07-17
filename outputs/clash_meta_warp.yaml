@@ -2198,16 +2198,16 @@ proxies:
       host: nijigen-works.jp
       password: K+NtA/8R8MTQ9vyZAd0kzUYJkwQmQBkUIQmwa2Po8cM=
       version: 3
-  - name: Unknown 🇺🇳-ss | 6-1
+  - name: FR 🇫🇷-ss | 6-1
     type: ss
-    server: 23.170.40.77
+    server: 51.159.2.179
     port: 443
     cipher: 2022-blake3-chacha20-poly1305
-    password: CmUP/cj9LY2W4bsBUV7mG8ujmMcCOzt+b4un9xnLuro=
+    password: EJhF7SAs95JSRDFE54wyjr79GvKPEm7w0qLpMh6T0aM=
     plugin: shadow-tls
     plugin-opts:
       host: nijigen-works.jp
-      password: K+NtA/8R8MTQ9vyZAd0kzUYJkwQmQBkUIQmwa2Po8cM=
+      password: QuLaE7p3W+ZSOvK/q5G5zRV0UEBEefflZENLW6MZPFI=
       version: 3
   - name: 🏳 Unknown-vmess | 7-1
     type: vmess
@@ -2281,19 +2281,17 @@ proxies:
     reduce-rtt: true
     udp-relay-mode: native
     congestion-controller: bbr
-  - name: Unknown 🇺🇳-hysteria | 9-1
-    type: hysteria
-    server: 23.170.40.77
-    port: 30009
-    sni: bing.com
-    skip-cert-verify: true
-    alpn:
-      - h3
-    protocol: udp
-    auth_str: dongtaiwang.com
-    up: 11
-    down: 55
-    hop_interval: 10
+  - name: FR 🇫🇷-ss | 9-1
+    type: ss
+    server: 51.159.2.179
+    port: 443
+    cipher: 2022-blake3-chacha20-poly1305
+    password: EJhF7SAs95JSRDFE54wyjr79GvKPEm7w0qLpMh6T0aM=
+    plugin: shadow-tls
+    plugin-opts:
+      host: nijigen-works.jp
+      password: QuLaE7p3W+ZSOvK/q5G5zRV0UEBEefflZENLW6MZPFI=
+      version: 3
   - name: US 🇺🇸-ss | 14-1
     type: ss
     server: 108.181.22.130
@@ -2353,9 +2351,9 @@ proxies:
     down: 100 Mbps
   - name: US 🇺🇸-Hysteria | 0-0
     type: hysteria
-    server: 104.192.224.139
-    port: 42113
-    ports: 42113
+    server: 166.1.18.52
+    port: 41363
+    ports: 41363
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2395,9 +2393,9 @@ proxies:
       - h3
   - name: US 🇺🇸-Hysteria | 3-0
     type: hysteria
-    server: 104.192.224.139
-    port: 42113
-    ports: 42113
+    server: 166.1.18.52
+    port: 41363
+    ports: 41363
     auth-str: dongtaiwang.com
     up: 80
     down: 100
@@ -2407,7 +2405,14 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: FR 🇫🇷-Hysteria2 | 0-0
+  - name: US 🇺🇸-Hysteria2 | 0-0
+    type: hysteria2
+    server: 38.114.103.210
+    port: 30647
+    password: dongtaiwang.com
+    sni: bing.com
+    skip-cert-verify: true
+  - name: FR 🇫🇷-Hysteria2 | 2-0
     type: hysteria2
     server: 51.159.2.179
     port: 23499
@@ -2654,13 +2659,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - Unknown 🇺🇳-ss | 5-1
-      - Unknown 🇺🇳-ss | 6-1
+      - FR 🇫🇷-ss | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - 🏳 Unknown-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - Unknown 🇺🇳-tuic | 8-1
-      - Unknown 🇺🇳-hysteria | 9-1
+      - FR 🇫🇷-ss | 9-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
@@ -2671,7 +2676,8 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - FR 🇫🇷-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 0-0
+      - FR 🇫🇷-Hysteria2 | 2-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
@@ -2830,13 +2836,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - Unknown 🇺🇳-ss | 5-1
-      - Unknown 🇺🇳-ss | 6-1
+      - FR 🇫🇷-ss | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - 🏳 Unknown-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - Unknown 🇺🇳-tuic | 8-1
-      - Unknown 🇺🇳-hysteria | 9-1
+      - FR 🇫🇷-ss | 9-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
@@ -2847,7 +2853,8 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - FR 🇫🇷-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 0-0
+      - FR 🇫🇷-Hysteria2 | 2-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
@@ -3006,13 +3013,13 @@ proxy-groups:
       - 🏳 Unknown-vmess | 4-3
       - 🏳 Unknown-vmess | 4-4
       - Unknown 🇺🇳-ss | 5-1
-      - Unknown 🇺🇳-ss | 6-1
+      - FR 🇫🇷-ss | 6-1
       - 🏳 Unknown-vmess | 7-1
       - CA 🇨🇦-vmess | 7-2
       - 🏳 Unknown-vmess | 7-3
       - 🏳 Unknown-vmess | 7-4
       - Unknown 🇺🇳-tuic | 8-1
-      - Unknown 🇺🇳-hysteria | 9-1
+      - FR 🇫🇷-ss | 9-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
@@ -3023,7 +3030,8 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - FR 🇫🇷-Hysteria2 | 0-0
+      - US 🇺🇸-Hysteria2 | 0-0
+      - FR 🇫🇷-Hysteria2 | 2-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
