@@ -166,7 +166,7 @@ hysteria://208.87.243.123:31476/?protocol=udp&insecure=NaN&peer=wechat.com&auth=
 hysteria://208.87.243.123:31476/?protocol=udp&insecure=NaN&peer=wechat.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 1-0
 hysteria://208.87.243.123:31476/?protocol=udp&insecure=NaN&peer=wechat.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 2-0
 hysteria://166.1.18.52:10295/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 3-0
-hysteria2://dongtaiwang.com@173.234.31.99:56549/?sni=&insecure=NaN#US 🇺🇸-Hysteria2 | 0-0
+hysteria2://dongtaiwang.com@hy3.3124845.xyz:443/?sni=hy3.3124845.xyz&insecure=0#Unknown 🇺🇳-Hysteria2 | 0-0
 hysteria2://dongtaiwang.com@104.192.224.139:40391/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 4-0
 hysteria2://dongtaiwang.com@104.192.224.142:40391/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 5-0
 hysteria2://dongtaiwang.com@64.110.25.11:37021/?sni=www.bing.com&insecure=NaN#US 🇺🇸-Hysteria2 | 6-0
