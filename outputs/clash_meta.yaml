@@ -2486,19 +2486,12 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: FR 🇫🇷-Hysteria2 | 0-0
+  - name: US 🇺🇸-Hysteria2 | 0-0
     type: hysteria2
-    server: 51.159.34.216
-    port: 7571
+    server: 173.234.31.99
+    port: 56549
     password: dongtaiwang.com
-    sni: www.bing.com
-    skip-cert-verify: true
-  - name: US 🇺🇸-Hysteria2 | 1-0
-    type: hysteria2
-    server: 108.181.24.39
-    port: 60714
-    password: dongtaiwang.com
-    sni: www.bing.com
+    sni: ''
     skip-cert-verify: true
   - name: US 🇺🇸-Hysteria2 | 4-0
     type: hysteria2
@@ -2762,8 +2755,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - FR 🇫🇷-Hysteria2 | 0-0
-      - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
@@ -2945,8 +2937,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - FR 🇫🇷-Hysteria2 | 0-0
-      - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
