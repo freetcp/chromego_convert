@@ -2486,17 +2486,10 @@ proxies:
     skip-cert-verify: true
     alpn:
       - h3
-  - name: Unknown 🇺🇳-Hysteria2 | 0-0
+  - name: US 🇺🇸-Hysteria2 | 0-0
     type: hysteria2
-    server: hy3.3124845.xyz
-    port: 443
-    password: dongtaiwang.com
-    sni: hy3.3124845.xyz
-    skip-cert-verify: false
-  - name: US 🇺🇸-Hysteria2 | 1-0
-    type: hysteria2
-    server: 166.1.18.178
-    port: 23456
+    server: 207.90.239.157
+    port: 22334
     password: dongtaiwang.com
     sni: bing.com
     skip-cert-verify: true
@@ -2762,8 +2755,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - Unknown 🇺🇳-Hysteria2 | 0-0
-      - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
@@ -2945,8 +2937,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria | 1-0
       - US 🇺🇸-Hysteria | 2-0
       - US 🇺🇸-Hysteria | 3-0
-      - Unknown 🇺🇳-Hysteria2 | 0-0
-      - US 🇺🇸-Hysteria2 | 1-0
+      - US 🇺🇸-Hysteria2 | 0-0
       - US 🇺🇸-Hysteria2 | 4-0
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
