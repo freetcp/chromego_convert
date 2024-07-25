@@ -2577,9 +2577,9 @@ proxies:
     h2-opts:
       path: /
       host: []
-  - name: US 🇺🇸-vmess | 5-0
+  - name: 🏳 Unknown-vmess | 5-0
     type: vmess
-    server: 172.64.170.111
+    server: 104.26.2.2
     port: 2082
     uuid: 86e926b9-d67a-4c8f-a35e-024631838a45
     alterId: 0
@@ -2779,7 +2779,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 7-0
       - 🏳 Unknown-vmess | 1-0
       - 🏳 Unknown-vmess | 3-0
-      - US 🇺🇸-vmess | 5-0
+      - 🏳 Unknown-vmess | 5-0
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -2961,7 +2961,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 7-0
       - 🏳 Unknown-vmess | 1-0
       - 🏳 Unknown-vmess | 3-0
-      - US 🇺🇸-vmess | 5-0
+      - 🏳 Unknown-vmess | 5-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -3143,7 +3143,7 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 7-0
       - 🏳 Unknown-vmess | 1-0
       - 🏳 Unknown-vmess | 3-0
-      - US 🇺🇸-vmess | 5-0
+      - 🏳 Unknown-vmess | 5-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
