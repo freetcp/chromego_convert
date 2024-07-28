@@ -14,7 +14,7 @@ proxies:
   - name: ☁ WARP
     type: wireguard
     server: 162.159.195.1
-    port: 2048
+    port: 2408
     ip: 172.16.0.2
     ipv6: 2606:4700:110:87ad:b400:91:eadb:887f
     private-key: +MUw8on/n/6Zh/k2qtPcnZW4UIxBBPrrkMCZ3OO25GI=
