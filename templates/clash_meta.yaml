@@ -1,29 +1,40 @@
-mixed-port: 7890
-allow-lan: false
+port: 7890
+socks-port: 7891
+allow-lan: true
 mode: Rule
 log-level: info
-ipv6: false
-hosts: null
-external-controller: '127.0.0.1:9090'
-clash-for-android:
-    append-system-dns: false
-profile:
-    tracing: true
-global-client-fingerprint: chrome
+external-controller: :9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
 proxies:
-
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - ⚖ 负载均衡
 
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
+    proxies:
+
+  - name: ⚖ 负载均衡
+    type: load-balance
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    strategy: consistent-hashing
     proxies:
 
   - name: 📺 巴哈姆特
