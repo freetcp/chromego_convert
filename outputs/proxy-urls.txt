@@ -162,7 +162,7 @@ tuic://39edbd65-1a14-4d58-bb5a-3b69c52d0869:hSOogY0SXn4T@tuic1.dtku47.xyz:22336/
 hysteria://clash1.dtku47.xyz:11223/?protocol=udp&insecure=0&peer=&auth=O5tQQiW2xKf5&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 18-1
 hysteria://hy2.dtku47.xyz:15566/?protocol=udp&insecure=0&peer=&auth=jQrGpwSqp34P&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 19-1
 hysteria://hy1.dtku47.xyz:22334/?protocol=udp&insecure=0&peer=&auth=lASdKzWK0VxL&upmbps=50 Mbps&downmbps=100 Mbps&alpn=h3&obfs=#Unknown 🇺🇳-hysteria | 20-1
-hysteria://166.1.221.169:11223/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 0-0
+hysteria://91.149.239.23:11223/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 0-0
 hysteria://166.1.221.169:11223/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 1-0
 hysteria://166.1.221.169:11223/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 2-0
 hysteria://166.1.221.169:11223/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#US 🇺🇸-Hysteria | 3-0
