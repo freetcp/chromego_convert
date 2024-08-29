@@ -13,13 +13,12 @@ dns:
   default-nameserver:
     - 223.5.5.5
     - 180.76.76.76
-    - 8.8.8.8
   nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
   fallback:
-    - https://1.0.0.1/dns-query
-    - tls://dns.google
+    - 1.1.1.1
+    - 8.8.8.8
   fallback-filter:
     geoip: true
     geoip-code: CN
@@ -29,7 +28,7 @@ proxies:
   - name: ☁ WARP
     type: vless
     server: ct.090227.xyz
-    port: 2053
+    port: 8443
     uuid: 2281ea89-805f-45fa-8902-6e4ad0e26666
     encryption: none
     udp: true
