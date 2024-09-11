@@ -7919,46 +7919,6 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: ip5-10.freegradely.xyz
-  - name: Unknown 🇺🇳-hysteria | 10-1
-    type: hysteria
-    server: clash1.dtku47.xyz
-    port: 11223
-    auth-str: O5tQQiW2xKf5
-    alpn:
-      - h3
-    protocol: udp
-    up: 50 Mbps
-    down: 100 Mbps
-  - name: Unknown 🇺🇳-hysteria | 11-1
-    type: hysteria
-    server: hy2.dtku47.xyz
-    port: 15566
-    auth-str: jQrGpwSqp34P
-    alpn:
-      - h3
-    protocol: udp
-    up: 50 Mbps
-    down: 100 Mbps
-  - name: Unknown 🇺🇳-hysteria | 12-1
-    type: hysteria
-    server: hy2.dtku47.xyz
-    port: 15566
-    auth-str: jQrGpwSqp34P
-    alpn:
-      - h3
-    protocol: udp
-    up: 50 Mbps
-    down: 100 Mbps
-  - name: Unknown 🇺🇳-hysteria | 13-1
-    type: hysteria
-    server: hy1.dtku47.xyz
-    port: 22334
-    auth-str: lASdKzWK0VxL
-    alpn:
-      - h3
-    protocol: udp
-    up: 50 Mbps
-    down: 100 Mbps
   - name: US 🇺🇸-ss | 14-1
     type: ss
     server: 108.181.22.130
@@ -7986,16 +7946,6 @@ proxies:
     request-timeout: 8000
     udp-relay-mode: native
     congestion-controller: bbr
-  - name: Unknown 🇺🇳-hysteria | 17-1
-    type: hysteria
-    server: hy2.dtku47.xyz
-    port: 15566
-    auth-str: jQrGpwSqp34P
-    alpn:
-      - h3
-    protocol: udp
-    up: 50 Mbps
-    down: 100 Mbps
   - name: Unknown 🇺🇳-hysteria | 18-1
     type: hysteria
     server: clash1.dtku47.xyz
@@ -8117,7 +8067,7 @@ proxies:
     password: dongtaiwang.com
     sni: www.bing.com
     skip-cert-verify: true
-  - name: 🏳 Unknown-vmess | 0-0
+  - name: 🏳 Unknown-vmess | 1-0
     type: vmess
     server: 104.21.238.65
     port: 2082
@@ -8137,7 +8087,7 @@ proxies:
     h2-opts:
       path: /
       host: []
-  - name: 🏳 Unknown-vmess | 2-0
+  - name: 🏳 Unknown-vmess | 3-0
     type: vmess
     server: 104.19.143.111
     port: 2082
@@ -8157,7 +8107,7 @@ proxies:
     h2-opts:
       path: /
       host: []
-  - name: US 🇺🇸-vmess | 4-0
+  - name: US 🇺🇸-vmess | 5-0
     type: vmess
     server: 172.64.170.111
     port: 2082
@@ -8172,26 +8122,6 @@ proxies:
       path: github.com/Alvin9999
       headers:
         Host: xray3.2413762.xyz
-    grpc-opts:
-      serviceName: /
-    h2-opts:
-      path: /
-      host: []
-  - name: 🏳 Unknown-vmess | 6-0
-    type: vmess
-    server: 104.26.3.12
-    port: 2082
-    uuid: 86e926b9-d67a-4c8f-a35e-024631838a45
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: ''
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: github.com/Alvin9999
-      headers:
-        Host: xray4.2413762.xyz
     grpc-opts:
       serviceName: /
     h2-opts:
@@ -8729,14 +8659,9 @@ proxy-groups:
       - CA 🇨🇦-vmess | 9-2
       - 🏳 Unknown-vmess | 9-3
       - 🏳 Unknown-vmess | 9-4
-      - Unknown 🇺🇳-hysteria | 10-1
-      - Unknown 🇺🇳-hysteria | 11-1
-      - Unknown 🇺🇳-hysteria | 12-1
-      - Unknown 🇺🇳-hysteria | 13-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
-      - Unknown 🇺🇳-hysteria | 17-1
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
@@ -8749,10 +8674,9 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
-      - 🏳 Unknown-vmess | 0-0
-      - 🏳 Unknown-vmess | 2-0
-      - US 🇺🇸-vmess | 4-0
-      - 🏳 Unknown-vmess | 6-0
+      - 🏳 Unknown-vmess | 1-0
+      - 🏳 Unknown-vmess | 3-0
+      - US 🇺🇸-vmess | 5-0
   - name: ⚖ 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -9284,14 +9208,9 @@ proxy-groups:
       - CA 🇨🇦-vmess | 9-2
       - 🏳 Unknown-vmess | 9-3
       - 🏳 Unknown-vmess | 9-4
-      - Unknown 🇺🇳-hysteria | 10-1
-      - Unknown 🇺🇳-hysteria | 11-1
-      - Unknown 🇺🇳-hysteria | 12-1
-      - Unknown 🇺🇳-hysteria | 13-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
-      - Unknown 🇺🇳-hysteria | 17-1
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
@@ -9304,10 +9223,9 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
-      - 🏳 Unknown-vmess | 0-0
-      - 🏳 Unknown-vmess | 2-0
-      - US 🇺🇸-vmess | 4-0
-      - 🏳 Unknown-vmess | 6-0
+      - 🏳 Unknown-vmess | 1-0
+      - 🏳 Unknown-vmess | 3-0
+      - US 🇺🇸-vmess | 5-0
   - name: 🚀 节点选择
     type: select
     proxies:
@@ -9839,14 +9757,9 @@ proxy-groups:
       - CA 🇨🇦-vmess | 9-2
       - 🏳 Unknown-vmess | 9-3
       - 🏳 Unknown-vmess | 9-4
-      - Unknown 🇺🇳-hysteria | 10-1
-      - Unknown 🇺🇳-hysteria | 11-1
-      - Unknown 🇺🇳-hysteria | 12-1
-      - Unknown 🇺🇳-hysteria | 13-1
       - US 🇺🇸-ss | 14-1
       - Unknown 🇺🇳-hysteria | 15-1
       - Unknown 🇺🇳-tuic | 16-1
-      - Unknown 🇺🇳-hysteria | 17-1
       - Unknown 🇺🇳-hysteria | 18-1
       - Unknown 🇺🇳-hysteria | 19-1
       - Unknown 🇺🇳-hysteria | 20-1
@@ -9859,10 +9772,9 @@ proxy-groups:
       - US 🇺🇸-Hysteria2 | 5-0
       - US 🇺🇸-Hysteria2 | 6-0
       - US 🇺🇸-Hysteria2 | 7-0
-      - 🏳 Unknown-vmess | 0-0
-      - 🏳 Unknown-vmess | 2-0
-      - US 🇺🇸-vmess | 4-0
-      - 🏳 Unknown-vmess | 6-0
+      - 🏳 Unknown-vmess | 1-0
+      - 🏳 Unknown-vmess | 3-0
+      - US 🇺🇸-vmess | 5-0
   - name: ☁ WARP前置节点
     type: select
     proxies:
