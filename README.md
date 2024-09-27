@@ -10,7 +10,7 @@ A NodeJS script to Convert ChromeGo Proxies
 
 ## 使用说明
 
-> 本项目已配置 Github Actions 自动运行，最近提取于：`UTC 2024-09-26 20:37:54`
+> 本项目已配置 Github Actions 自动运行，最近提取于：`UTC 2024-09-27 09:24:36`
 
 
 ### 本地运行：
