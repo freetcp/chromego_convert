@@ -1,7 +1,7 @@
 hysteria://5.83.129.143:26691/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#DE-hysteria | 0-1
 hysteria://198.200.57.142:22335/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#US-hysteria | 2-1
 hysteria://tw-25.497489.xyz:10099/?protocol=udp&insecure=0&peer=tw-25.497489.xyz&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#CloudFlare-hysteria | 4-1
-hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 5-1
+hysteria://62.210.70.191:24667/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 5-1
 hysteria://163.172.117.163:36699/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 6-1
 hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 7-1
 hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 8-1
