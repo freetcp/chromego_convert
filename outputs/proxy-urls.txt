@@ -6,5 +6,5 @@ hysteria://163.172.117.163:36699/?protocol=udp&insecure=NaN&peer=bing.com&auth=d
 hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 7-1
 hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 8-1
 hysteria://[2001:NaN/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#CloudFlare-Hysteria | 0-0
-hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-Hysteria | 1-0
+hysteria://107.149.207.185:443/?protocol=udp&insecure=NaN&peer=www.bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#US-Hysteria | 1-0
 hysteria://5.83.129.90:54177/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#DE-Hysteria | 2-0
