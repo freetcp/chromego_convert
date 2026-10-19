@@ -37,12 +37,18 @@ proxies:
     protocol: udp
     up: 11 Mbps
     down: 55 Mbps
-  - name: CloudFlare-anytls | 1-1
-    type: anytls
-    server: anytls2.864106.xyz
-    port: 19000
-    password: github.com/Alvin9999-newpac/fanqiang
-    sni: anytls2.864106.xyz
+  - name: CloudFlare-hysteria | 1-1
+    type: hysteria
+    server: tw-25.497489.xyz
+    port: 10099
+    auth-str: github.com/Alvin9999-newpac/fanqiang
+    sni: tw-25.497489.xyz
+    skip-cert-verify: false
+    alpn:
+      - h3
+    protocol: udp
+    up: 20 Mbps
+    down: 20 Mbps
   - name: US-hysteria | 2-1
     type: hysteria
     server: 198.200.57.142
@@ -140,7 +146,7 @@ proxies:
       - h3
   - name: US-Hysteria | 1-0
     type: hysteria
-    server: 107.149.207.185
+    server: 137.175.82.44
     port: 443
     ports: 443
     auth-str: dongtaiwang.com
@@ -148,7 +154,7 @@ proxies:
     down: 100
     fast-open: true
     protocol: udp
-    sni: www.bing.com
+    sni: bing.com
     skip-cert-verify: true
     alpn:
       - h3
