@@ -37,18 +37,18 @@ proxies:
     protocol: udp
     up: 11 Mbps
     down: 55 Mbps
-  - name: CloudFlare-hysteria | 1-1
+  - name: FR-hysteria | 1-1
     type: hysteria
-    server: tw-25.497489.xyz
-    port: 10099
-    auth-str: github.com/Alvin9999-newpac/fanqiang
-    sni: tw-25.497489.xyz
-    skip-cert-verify: false
+    server: 163.172.117.163
+    port: 36699
+    auth-str: dongtaiwang.com
+    sni: bing.com
+    skip-cert-verify: true
     alpn:
       - h3
     protocol: udp
-    up: 20 Mbps
-    down: 20 Mbps
+    up: 11 Mbps
+    down: 55 Mbps
   - name: US-hysteria | 2-1
     type: hysteria
     server: 198.200.57.142
