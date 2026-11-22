@@ -1,11 +1,12 @@
 hysteria://5.83.129.143:26691/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#DE-hysteria | 0-1
 hysteria://38.6.222.131:11008/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#US-hysteria | 1-1
 hysteria://38.6.222.132:11008/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#US-hysteria | 2-1
-hysteria://tw-25.497489.xyz:10099/?protocol=udp&insecure=0&peer=tw-25.497489.xyz&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#CloudFlare-hysteria | 4-1
+hysteria2://dongtaiwang.com@198.247.124.187:23456/?sni=www.bing.com&insecure=NaN#US-hysteria2 | 3-1
+hysteria2://dongtaiwang.com@198.247.124.187:23456/?sni=www.bing.com&insecure=NaN#US-hysteria2 | 4-1
 hysteria://62.210.124.132:24667/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 5-1
-hysteria://62.210.124.132:24667/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 6-1
-hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 7-1
-hysteria://62.210.70.191:23556/?protocol=udp&insecure=NaN&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=50&downmbps=200&alpn=h3&obfs=#FR-hysteria | 8-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::10:22000/?sni=www.microsoft.com&insecure=NaN#FR-hysteria2 | 6-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::11:22000/?sni=www.microsoft.com&insecure=NaN#FR-hysteria2 | 7-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::12:22000/?sni=www.microsoft.com&insecure=NaN#FR-hysteria2 | 8-1
 hysteria://[2001:NaN/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#CloudFlare-Hysteria | 0-0
 hysteria://137.175.82.44:443/?protocol=udp&insecure=NaN&peer=bing.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#US-Hysteria | 1-0
 hysteria://5.83.129.90:54177/?protocol=udp&insecure=NaN&peer=apple.com&auth=dongtaiwang.com&upmbps=50&downmbps=200&alpn=h3&obfs=#DE-Hysteria | 2-0
